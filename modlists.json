@@ -9,7 +9,7 @@
     "nsfw": true,
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/cupid/cupid.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/cupid/readme.md",
+      "readme": "https://raw.githubusercontent.com/TheOriginalGeez/Cupid/master/README.md",
       "download": "https://wabbajackpush.b-cdn.net/Cupid-881c4baa-52bf-4f44-82b5-647c2463a5cf.wabbajack",
       "machineURL": "cupid"
     },
