@@ -70,8 +70,8 @@
   },
   {
     "title": "Cupid",
-    "description": "A relatively small list focused on SexLab, fun perk trees, fast combat, and creating screenshots.",
-    "version": "1.2.1",
+    "description": "A relatively small list focused on SexLab, fun perk trees and fast combat.",
+    "version": "1.3.0",
     "author": "Geez",
     "game": "skyrimspecialedition",
     "tags": ["Official"],
@@ -79,16 +79,16 @@
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/cupid/cupid.png",
       "readme": "https://raw.githubusercontent.com/TheOriginalGeez/Cupid/master/README.md",
-      "download": "https://wabbajack.b-cdn.net/Cupid.wabbajack_732663f3-2cd8-4788-992c-263499d9664c",
+      "download": "https://wabbajack.b-cdn.net/Cupid.wabbajack_603003c9-f79b-4b0b-b09c-6cac5a5358e2",
       "machineURL": "cupid"
     },
     "download_metadata": {
-        "Hash": "cDAztF+gg4A=",
-        "Size": 435899074,
-        "NumberOfArchives": 168,
-        "SizeOfArchives": 24044489615,
-        "NumberOfInstalledFiles": 56362,
-        "SizeOfInstalledFiles": 52405735582
+        "Hash": "6dhp9q+ARpg=",
+        "Size": 435952691,
+        "NumberOfArchives": 171,
+        "SizeOfArchives": 24966088876,
+        "NumberOfInstalledFiles": 56682,
+        "SizeOfInstalledFiles": 52624585965
     }
   },
     {
@@ -296,7 +296,7 @@
   {
     "title": "The Phoenix Flavour",
     "description": "Focusing on enhancing gameplay mechanics rather than outright replacing them, Phoenix and her team have spent years putting together a stunning and stable list that can serve as a base for your additional mods or as a complete experience unto itself.",
-    "version": "3.2",
+    "version": "3.1.6",
     "author": "Phoenix & Umgak",
     "game": "skyrimspecialedition",
     "tags": ["Unofficial"],
@@ -304,16 +304,16 @@
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/phoenix-flavour/TPFSplash.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/phoenix-flavour/readme.md",
-      "download": "https://wabbajack.b-cdn.net/The%20Phoenix%20Flavour%203.2.wabbajack_0bf06948-8304-447c-a45c-f9f162b7cebe",
+      "download": "https://wabbajack.b-cdn.net/The%20Phoenix%20Flavour.wabbajack_69dcd1ae-19bd-4869-bcb8-e00540d63f19",
       "machineURL": "tpf"
     },
     "download_metadata": {
-      "Hash": "4wkjWiNbw5I=",
-      "Size": 197399586,
-      "NumberOfArchives": 626,
-      "SizeOfArchives": 44973162317,
-      "NumberOfInstalledFiles": 38928,
-      "SizeOfInstalledFiles": 63439572019
+      "Hash": "HmDAQD5wC3U=",
+      "Size": 102455707,
+      "NumberOfArchives": 603,
+      "SizeOfArchives": 47904999638,
+      "NumberOfInstalledFiles": 35144,
+      "SizeOfInstalledFiles": 67794403765
     }
   },
   {
